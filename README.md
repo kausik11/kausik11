@@ -1,20 +1,20 @@
-<h1 align="center">👋 Hi there, I'm YOUR NAME</h1>
+<h1 align="center">👋 Hi there, I'm Kausik</h1>
 <h3 align="center">MERN Stack Developer | Full-Stack JavaScript Engineer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/kausik11">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUREMAIL@gmail.com">
+  <a href="mailto:kausikdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://YOURPORTFOLIO.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=kausik11&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
@@ -23,8 +23,8 @@
 
 - 🚀 MERN Stack Developer with strong backend focus  
 - 🧩 Building scalable web applications & REST APIs  
-- ⚙️ Passionate about performance, clean architecture & DevOps  
-- 🌱 Currently learning **System Design & Cloud-Native Architecture**  
+- ⚙️ Passionate about clean architecture, performance & DevOps  
+- 🌱 Currently learning **System Design & Cloud-Native Architecture**
 
 ---
 
@@ -78,40 +78,33 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kausik11&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kausik11&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausik11&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 **MERN Authentication System** – JWT, Refresh Tokens, Role-Based Access  
+- 🔹 **MERN Authentication System** – JWT, Refresh Tokens, RBAC  
 - 🔹 **E-Commerce Platform** – React, Node, MongoDB, Stripe  
 - 🔹 **Admin Dashboard** – Charts, Analytics, API integrations  
-- 🔹 **REST API Boilerplate** – Clean architecture & scalable design  
+- 🔹 **REST API Boilerplate** – Clean architecture & scalability  
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- 🌐 Portfolio: https://YOURPORTFOLIO.com  
-- ✉️ Email: YOUREMAIL@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/kausik11  
+- ✉️ Email: kausikdev@gmail.com  
 
 ---
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kkausik11E&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
