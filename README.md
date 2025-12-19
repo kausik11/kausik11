@@ -103,7 +103,7 @@
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/kausik11  
-- ✉️ Email: kausikdev@gmail.com  
+- ✉️ Email: kkausik11@gmail.com  
 
 ---
 
