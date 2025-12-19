@@ -2,13 +2,13 @@
 <h3 align="center">MERN Stack Developer | Full-Stack JavaScript Engineer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kausik11">
+  <a href="www.linkedin.com/in/kausik-saha-fsd">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:kausikdev@gmail.com">
+  <a href="mailto:kkausik11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="#">
+  <a href="https://ksportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
@@ -102,7 +102,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/kausik11  
+- 💼 LinkedIn: https://www.linkedin.com/in/kausik-saha-fsd/
 - ✉️ Email: kkausik11@gmail.com  
 
 ---
